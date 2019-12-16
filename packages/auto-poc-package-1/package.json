@@ -1,5 +1,5 @@
 {
-  "name": "@auto/lerna-independent-poc-package-1",
+  "name": "auto-lerna-independent-poc-package-1",
   "version": "0.0.0",
   "description": "Package 1",
   "main": "index.js",
