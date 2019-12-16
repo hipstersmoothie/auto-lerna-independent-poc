@@ -1,3 +1,3 @@
 function package1() {
-  return 'Hello';
+  return 'Hello with a change';
 }
