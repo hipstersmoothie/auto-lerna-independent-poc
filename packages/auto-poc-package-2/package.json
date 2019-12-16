@@ -1,6 +1,6 @@
 {
   "name": "auto-lerna-independent-poc-package-2",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Package 2",
   "main": "index.js",
   "publishConfig": {
